@@ -1,0 +1,2 @@
+# Ignore markdown files in private workspace directories
+workspace/private/**/*.md
